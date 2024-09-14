@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tamaa111.tamaa111" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=안녕하세요+👋;+Call+Me+Vendy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&fill=0000FF&width=500&height=70&duration=4000&lines=안녕하세요+👋;+Call+Me+Vendy!;" />
 </h1>
 
 <h3 align="center">A student who has interest in IT</h3>
