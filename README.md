@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🎶 when pixels become poetry and colors dance in harmony 🕺
+ 🎶when pixels become poetry and colors dance in harmony🕺
 
 ✨ Student with <del>no</del> knowledge ✨
 
