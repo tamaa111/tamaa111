@@ -11,7 +11,7 @@
  
  🎶when pixels become poetry and colors dance in harmony🕺
 
-✨ Student with <del>no</del> knowledge ✨
+✨Student with <del>no</del> knowledge✨
 
  </div>
  
