@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🎶when pixels become poetry and colors dance in harmony🕺
+ ☕A coder’s caffeine is logic, and their adrenaline is runtime success🕺
 
 ✨Student with <del>no</del> knowledge✨
 
