@@ -22,7 +22,7 @@
 
 <div align="center">
     <a href="mailto:vendypaulus@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://linkedin.com/in/vendypauluspratama" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -60,12 +60,9 @@
 <br/>
 
 <div align="center">
-    <!-
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tamaa111&count_private=true&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=FF0000&border_radius=10" alt="Streak stats" />
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=tamaa111&count_private=true&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&rank_icon=github&border_radius=10" alt="README stats" />
-    <br/>
-    -->
-    <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tamaa111&hide=HTML&langs_count=8&layout=compact&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+    <img width="325" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tamaa111&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=FF0000&border_radius=10" alt="Streak Stats" />
+    <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api?username=tamaa111&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+    <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tamaa111&hide=HTML&langs_count=8&layout=compact&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <br/>
