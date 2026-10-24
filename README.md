@@ -55,12 +55,12 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated divider" />
 
-<h3 align="center">📊 Stats 📊</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40" alt="Stats animation"> Stats <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40" alt="Stats animation"></h3>
 
 <br/>
 
 <div align="center">
-    <!--
+    <!-
     <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tamaa111&count_private=true&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=FF0000&border_radius=10" alt="Streak stats" />
     <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=tamaa111&count_private=true&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&rank_icon=github&border_radius=10" alt="README stats" />
     <br/>
