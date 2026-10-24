@@ -60,8 +60,8 @@
 <br/>
 
 <div align="center">
-    <img width="325" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tamaa111&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=FF0000&border_radius=10" alt="Streak Stats" />
-    <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api?username=tamaa111&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+    <!-- <img width="325" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tamaa111&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=FF0000&border_radius=10" alt="Streak Stats" />
+    <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api?username=tamaa111&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&rank_icon=github&border_radius=10" alt="GitHub Stats" /> -->
     <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tamaa111&hide=HTML&langs_count=8&layout=compact&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
