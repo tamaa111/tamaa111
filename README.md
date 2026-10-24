@@ -1,4 +1,4 @@
-### <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tamaa111.tamaa111&left_color=FF0000&right_color=FF0000" alt="Visitors" />
+### <img align="right" src="https://laobi.icu/badge?page_id=tamaa111.tamaa111&left_color=%23595959&right_color=%23ff0000" alt="Visitors" />
 
 <br/>
 
@@ -62,9 +62,11 @@
 <div align="center">
     <!--
     <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tamaa111&count_private=true&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=FF0000&border_radius=10" alt="Streak stats" />
+
     <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=tamaa111&count_private=true&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&rank_icon=github&border_radius=10" alt="README stats" />
     <br/>
     -->
+
     <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tamaa111&hide=HTML&langs_count=8&layout=compact&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
 </div>
 
