@@ -1,12 +1,12 @@
-### <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tamaa111.tamaa111&left_color=FF0000&right_color=FF0000" />
+### <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tamaa111.tamaa111&left_color=FF0000&right_color=FF0000" alt="Visitors" />
 
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=FF0000&width=500&height=70&duration=4000&lines=안녕하세요+👋;+Call+Me+Vendy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=FF0000&width=500&height=70&duration=4000&lines=안녕하세요+👋;+Call+Me+Vendy!" alt="안녕하세요 👋; Call Me Vendy!" />
 </h1>
 
-<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Error Code Slayer <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /></h3>
+<h3 align="center">🔥 Error Code Slayer 🔥</h3>
 
 <br/>
 
@@ -18,9 +18,11 @@
 
 </div>
 
+<br/>
+
 <div align="center">
     <a href="mailto:vendypaulus@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://linkedin.com/in/vendypauluspratama" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -29,7 +31,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Coding animation">
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Coding animation" />
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
@@ -53,17 +55,17 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated divider" />
 
-<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40" alt="Stats animation"> Stats <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40" alt="Stats animation"></h3>
+<h3 align="center">📊 Stats 📊</h3>
 
 <br/>
 
 <div align="center">
     <!--
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tamaa111&count_private=true&theme=react&border_radius=10" alt="Streak stats"/>
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=tamaa111&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="README stats" />
+    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tamaa111&count_private=true&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=FF0000&border_radius=10" alt="Streak stats" />
+    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=tamaa111&count_private=true&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&rank_icon=github&border_radius=10" alt="README stats" />
     <br/>
     -->
-    <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tamaa111&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+    <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tamaa111&hide=HTML&langs_count=8&layout=compact&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=000000&border_color=FF0000&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
 </div>
 
 <br/>
